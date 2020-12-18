@@ -10,3 +10,4 @@ AddType text/css .css
 RewriteEngine On
 RewriteRule ^([^/.]*)/?$ public/index.php?%{QUERY_STRING} [L]
 </IfModule>
+123 Test
